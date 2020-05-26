@@ -54,6 +54,7 @@ public class TC01GetCityWeather extends RESTAssuredBase{
 		System.out.println("Maximum Temprature---------> "+MaximumTemp);
 		System.out.println("Wind Speed ----------------> "+WindSpead);
 		System.out.println("SunSet--------------------> "+sunSet);
+		System.out.println("********************************");
 		
 		
 		
